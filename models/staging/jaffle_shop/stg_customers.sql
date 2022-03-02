@@ -1,3 +1,4 @@
+
 witch customers as (
 
     select
